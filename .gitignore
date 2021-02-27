@@ -1,5 +1,5 @@
 # Ignore everything
-/*
+
 
 !.gitignore
 !.gitpod.yml
@@ -19,3 +19,5 @@
 !/.learn/assets/**
 !/.learn/exercises
 !/.learn/exercises/**
+node_modules
+.theia
